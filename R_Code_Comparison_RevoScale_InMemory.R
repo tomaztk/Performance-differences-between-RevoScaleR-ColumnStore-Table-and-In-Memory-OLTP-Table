@@ -1,6 +1,12 @@
 ###
-### Comparison RevoScaleR and ColumnStore and In-Memory OLTP
+# Author: Tomaz Kastrun
+# Web: http://tomaztsql.wordpress.com
+# Twitter: @tomaz_tsql
+# Created: 28.04.2017; Ljubljana
+# Comparing RevoScaleR, ColumnStore and Memory Optimized tables
+# using sp_execute_external_script
 ###
+
 
 setwd("C:/Program Files/Microsoft SQL Server/130/R_SERVER/library/RevoScaleR/SampleData")
 
